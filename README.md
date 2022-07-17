@@ -1,4 +1,4 @@
-# The marginal effects on airline passenger satisfaction
+# Airline Passenger Satisfaction marginal effects
 This project is inspired from the <a href="https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction">Kaggle dataset</a> on Airline Passenger Satisfaction.
 
 ## Context
