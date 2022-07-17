@@ -16,6 +16,8 @@ to determine which promotion should be used by the fast food chain.
 <li>Analyze the marginal effects of each feature</li>
 <li>Test other logistic regression models with different amounts of features</li>
 </ol>
+
+## Data Visualization Samples
 <img width="640" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179428500-0da158cd-95e1-49aa-a8c8-bbb8f83eff88.png">
 <img width="344" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179428503-4d12d634-35f8-476b-840a-3a61e393d6c1.png">
 <img width="569" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179428506-e9c037c5-4ff0-4ee8-b243-ab417105c75a.png">
